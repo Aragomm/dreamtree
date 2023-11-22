@@ -9,6 +9,7 @@ let link="http://google.com"
       <p className="title-sub">by dev {name}</p>
       <a href={link}>링크링크</a>
       <div>얍얍</div>
+      <div>호롤롤로</div>
     </div>
   )
 }
